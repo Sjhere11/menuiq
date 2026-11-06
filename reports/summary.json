@@ -1,0 +1,573 @@
+{
+  "orders": 60827,
+  "revenue_inr": 10447153,
+  "gross_margin_pct": 68.91,
+  "class_counts": {
+    "Puzzle": 10,
+    "Plowhorse": 8,
+    "Star": 7,
+    "Dog": 1
+  },
+  "classes": [
+    {
+      "item_name": "Cold Coffee",
+      "class": "Star",
+      "unit_share": 0.0504,
+      "cm_per_unit": 118.0,
+      "margin_pct": 73.75
+    },
+    {
+      "item_name": "Cappuccino",
+      "class": "Star",
+      "unit_share": 0.0494,
+      "cm_per_unit": 113.1078,
+      "margin_pct": 76.8877
+    },
+    {
+      "item_name": "French Fries",
+      "class": "Star",
+      "unit_share": 0.0503,
+      "cm_per_unit": 80.0,
+      "margin_pct": 72.7273
+    },
+    {
+      "item_name": "Masala Chai",
+      "class": "Plowhorse",
+      "unit_share": 0.1203,
+      "cm_per_unit": 33.1157,
+      "margin_pct": 78.6303
+    },
+    {
+      "item_name": "Filter Coffee",
+      "class": "Plowhorse",
+      "unit_share": 0.0806,
+      "cm_per_unit": 42.0,
+      "margin_pct": 70.0
+    },
+    {
+      "item_name": "Chicken Biryani",
+      "class": "Puzzle",
+      "unit_share": 0.0258,
+      "cm_per_unit": 130.0,
+      "margin_pct": 54.1667
+    },
+    {
+      "item_name": "Latte",
+      "class": "Star",
+      "unit_share": 0.0285,
+      "cm_per_unit": 114.0,
+      "margin_pct": 76.0
+    },
+    {
+      "item_name": "Maggi",
+      "class": "Plowhorse",
+      "unit_share": 0.0462,
+      "cm_per_unit": 58.0,
+      "margin_pct": 72.5
+    },
+    {
+      "item_name": "Veg Burger",
+      "class": "Star",
+      "unit_share": 0.0329,
+      "cm_per_unit": 80.0,
+      "margin_pct": 61.5385
+    },
+    {
+      "item_name": "Veg Biryani",
+      "class": "Puzzle",
+      "unit_share": 0.0253,
+      "cm_per_unit": 102.0,
+      "margin_pct": 56.6667
+    },
+    {
+      "item_name": "Iced Lemon Tea",
+      "class": "Star",
+      "unit_share": 0.0367,
+      "cm_per_unit": 70.0,
+      "margin_pct": 77.7778
+    },
+    {
+      "item_name": "Paneer Sandwich",
+      "class": "Star",
+      "unit_share": 0.0337,
+      "cm_per_unit": 74.0,
+      "margin_pct": 61.6667
+    },
+    {
+      "item_name": "Fresh Lime Soda",
+      "class": "Plowhorse",
+      "unit_share": 0.041,
+      "cm_per_unit": 56.0,
+      "margin_pct": 80.0
+    },
+    {
+      "item_name": "Oreo Shake",
+      "class": "Puzzle",
+      "unit_share": 0.0204,
+      "cm_per_unit": 108.0,
+      "margin_pct": 63.5294
+    },
+    {
+      "item_name": "Brownie",
+      "class": "Puzzle",
+      "unit_share": 0.0242,
+      "cm_per_unit": 81.6527,
+      "margin_pct": 70.6016
+    },
+    {
+      "item_name": "Cookie",
+      "class": "Plowhorse",
+      "unit_share": 0.0541,
+      "cm_per_unit": 34.0,
+      "margin_pct": 68.0
+    },
+    {
+      "item_name": "Paneer Wrap",
+      "class": "Puzzle",
+      "unit_share": 0.0193,
+      "cm_per_unit": 92.0,
+      "margin_pct": 61.3333
+    },
+    {
+      "item_name": "Veg Puff",
+      "class": "Plowhorse",
+      "unit_share": 0.0657,
+      "cm_per_unit": 21.0804,
+      "margin_pct": 56.8505
+    },
+    {
+      "item_name": "Ginger Tea",
+      "class": "Plowhorse",
+      "unit_share": 0.0388,
+      "cm_per_unit": 35.0,
+      "margin_pct": 77.7778
+    },
+    {
+      "item_name": "Samosa",
+      "class": "Plowhorse",
+      "unit_share": 0.0861,
+      "cm_per_unit": 15.0,
+      "margin_pct": 60.0
+    },
+    {
+      "item_name": "Chicken Wrap",
+      "class": "Puzzle",
+      "unit_share": 0.0129,
+      "cm_per_unit": 100.0,
+      "margin_pct": 58.8235
+    },
+    {
+      "item_name": "Mango Shake",
+      "class": "Puzzle",
+      "unit_share": 0.0146,
+      "cm_per_unit": 88.0,
+      "margin_pct": 62.8571
+    },
+    {
+      "item_name": "Cold Brew",
+      "class": "Puzzle",
+      "unit_share": 0.0078,
+      "cm_per_unit": 142.0,
+      "margin_pct": 78.8889
+    },
+    {
+      "item_name": "Choco Lava",
+      "class": "Puzzle",
+      "unit_share": 0.0105,
+      "cm_per_unit": 96.0,
+      "margin_pct": 68.5714
+    },
+    {
+      "item_name": "Espresso",
+      "class": "Puzzle",
+      "unit_share": 0.0111,
+      "cm_per_unit": 78.0,
+      "margin_pct": 78.0
+    },
+    {
+      "item_name": "Green Tea",
+      "class": "Dog",
+      "unit_share": 0.0132,
+      "cm_per_unit": 58.0,
+      "margin_pct": 82.8571
+    }
+  ],
+  "thresholds": {
+    "popularity": 0.026923076923076925,
+    "cm_per_unit": 62.94767904451303
+  },
+  "elasticity": [
+    {
+      "item": "Masala Chai",
+      "category": "Tea",
+      "old_price": 40.0,
+      "new_price": 44.0,
+      "price_change_pct": 10.0,
+      "elasticity_est": -1.335,
+      "ci_low": -2.531,
+      "ci_high": -0.077,
+      "ci_width": 2.454,
+      "true_elasticity": -0.5,
+      "true_in_ci": true
+    },
+    {
+      "item": "Cappuccino",
+      "category": "Coffee",
+      "old_price": 140.0,
+      "new_price": 154.0,
+      "price_change_pct": 10.0,
+      "elasticity_est": -1.293,
+      "ci_low": -2.594,
+      "ci_high": -0.018,
+      "ci_width": 2.576,
+      "true_elasticity": -1.2,
+      "true_in_ci": true
+    },
+    {
+      "item": "Brownie",
+      "category": "Desserts",
+      "old_price": 110.0,
+      "new_price": 121.0,
+      "price_change_pct": 10.0,
+      "elasticity_est": -1.161,
+      "ci_low": -3.25,
+      "ci_high": 1.028,
+      "ci_width": 4.278,
+      "true_elasticity": -1.6,
+      "true_in_ci": true
+    },
+    {
+      "item": "Veg Puff",
+      "category": "Snacks",
+      "old_price": 35.0,
+      "new_price": 39.0,
+      "price_change_pct": 11.429,
+      "elasticity_est": -0.1,
+      "ci_low": -1.021,
+      "ci_high": 0.832,
+      "ci_width": 1.853,
+      "true_elasticity": -0.9,
+      "true_in_ci": true
+    }
+  ],
+  "elasticity_pooled": {
+    "estimate": -0.972,
+    "ci_low": -1.634,
+    "ci_high": -0.233,
+    "true_mean": -1.05
+  },
+  "reprice_base_annual_profit_change": 42573,
+  "reprice_sensitivity": [
+    {
+      "case": "pooled CI low (more elastic)",
+      "elasticity": -1.63,
+      "annual_profit_change_inr": -24984
+    },
+    {
+      "case": "pooled estimate",
+      "elasticity": -0.97,
+      "annual_profit_change_inr": 42573
+    },
+    {
+      "case": "pooled CI high (less elastic)",
+      "elasticity": -0.23,
+      "annual_profit_change_inr": 120660
+    }
+  ],
+  "reprice_breakeven_elasticity": -1.39,
+  "reprice_detail": [
+    {
+      "item_name": "Masala Chai",
+      "category": "Tea",
+      "avg_price": 42.1,
+      "new_price": 44.2,
+      "units": 13764,
+      "new_units": 13126.2,
+      "gross_profit": 455804.0,
+      "new_profit": 462324.4,
+      "profit_change": 6520.4
+    },
+    {
+      "item_name": "Filter Coffee",
+      "category": "Coffee",
+      "avg_price": 60.0,
+      "new_price": 63.0,
+      "units": 9224,
+      "new_units": 8796.6,
+      "gross_profit": 387408.0,
+      "new_profit": 395846.5,
+      "profit_change": 8438.5
+    },
+    {
+      "item_name": "Maggi",
+      "category": "Snacks",
+      "avg_price": 80.0,
+      "new_price": 84.0,
+      "units": 5287,
+      "new_units": 5042.0,
+      "gross_profit": 306646.0,
+      "new_profit": 312605.0,
+      "profit_change": 5959.0
+    },
+    {
+      "item_name": "Fresh Lime Soda",
+      "category": "Cold Drinks",
+      "avg_price": 70.0,
+      "new_price": 73.5,
+      "units": 4693,
+      "new_units": 4475.5,
+      "gross_profit": 262808.0,
+      "new_profit": 266294.7,
+      "profit_change": 3486.7
+    },
+    {
+      "item_name": "Cookie",
+      "category": "Desserts",
+      "avg_price": 50.0,
+      "new_price": 52.5,
+      "units": 6190,
+      "new_units": 5903.2,
+      "gross_profit": 210460.0,
+      "new_profit": 215465.9,
+      "profit_change": 5005.9
+    },
+    {
+      "item_name": "Veg Puff",
+      "category": "Snacks",
+      "avg_price": 37.1,
+      "new_price": 38.9,
+      "units": 7516,
+      "new_units": 7167.7,
+      "gross_profit": 158440.0,
+      "new_profit": 164387.5,
+      "profit_change": 5947.5
+    },
+    {
+      "item_name": "Ginger Tea",
+      "category": "Tea",
+      "avg_price": 45.0,
+      "new_price": 47.2,
+      "units": 4434,
+      "new_units": 4228.5,
+      "gross_profit": 155190.0,
+      "new_profit": 157513.2,
+      "profit_change": 2323.2
+    },
+    {
+      "item_name": "Samosa",
+      "category": "Snacks",
+      "avg_price": 25.0,
+      "new_price": 26.2,
+      "units": 9842,
+      "new_units": 9386.0,
+      "gross_profit": 147630.0,
+      "new_profit": 152521.7,
+      "profit_change": 4891.7
+    }
+  ],
+  "pair_validation": {
+    "top_k": 10.0,
+    "planted_hits": 10.0,
+    "precision_at_k": 1.0
+  },
+  "forecast_metrics": [
+    {
+      "model": "gbm",
+      "wape": 0.1437,
+      "mae_units": 7.6786,
+      "wape_fold_min": 0.1325,
+      "wape_fold_max": 0.1585
+    },
+    {
+      "model": "4wk_avg",
+      "wape": 0.1478,
+      "mae_units": 7.8951,
+      "wape_fold_min": 0.1377,
+      "wape_fold_max": 0.159
+    },
+    {
+      "model": "seasonal_naive",
+      "wape": 0.1903,
+      "mae_units": 10.1667,
+      "wape_fold_min": 0.1733,
+      "wape_fold_max": 0.2047
+    }
+  ],
+  "forecast_by_category": [
+    {
+      "category": "Coffee",
+      "wape_seasonal_naive": 0.1987,
+      "wape_gbm": 0.1502
+    },
+    {
+      "category": "Cold Drinks",
+      "wape_seasonal_naive": 0.2461,
+      "wape_gbm": 0.2421
+    },
+    {
+      "category": "Desserts",
+      "wape_seasonal_naive": 0.23,
+      "wape_gbm": 0.163
+    },
+    {
+      "category": "Meals",
+      "wape_seasonal_naive": 0.2522,
+      "wape_gbm": 0.1775
+    },
+    {
+      "category": "Snacks",
+      "wape_seasonal_naive": 0.16,
+      "wape_gbm": 0.1148
+    },
+    {
+      "category": "Tea",
+      "wape_seasonal_naive": 0.1694,
+      "wape_gbm": 0.1315
+    }
+  ],
+  "forecast_improvement_vs_naive_pct": 24.5,
+  "top_pairs": [
+    {
+      "item_a": "Brownie",
+      "item_b": "Latte",
+      "orders_together": 530,
+      "support": 0.009,
+      "confidence_a_to_b": 0.199,
+      "confidence_b_to_a": 0.165,
+      "lift": 3.755
+    },
+    {
+      "item_a": "Cold Coffee",
+      "item_b": "Veg Burger",
+      "orders_together": 908,
+      "support": 0.015,
+      "confidence_a_to_b": 0.162,
+      "confidence_b_to_a": 0.252,
+      "lift": 2.73
+    },
+    {
+      "item_a": "Oreo Shake",
+      "item_b": "Veg Burger",
+      "orders_together": 372,
+      "support": 0.006,
+      "confidence_a_to_b": 0.161,
+      "confidence_b_to_a": 0.103,
+      "lift": 2.716
+    },
+    {
+      "item_a": "Brownie",
+      "item_b": "Cappuccino",
+      "orders_together": 632,
+      "support": 0.01,
+      "confidence_a_to_b": 0.237,
+      "confidence_b_to_a": 0.115,
+      "lift": 2.615
+    },
+    {
+      "item_a": "Iced Lemon Tea",
+      "item_b": "Paneer Wrap",
+      "orders_together": 377,
+      "support": 0.006,
+      "confidence_a_to_b": 0.094,
+      "confidence_b_to_a": 0.173,
+      "lift": 2.607
+    },
+    {
+      "item_a": "Fresh Lime Soda",
+      "item_b": "Veg Biryani",
+      "orders_together": 530,
+      "support": 0.009,
+      "confidence_a_to_b": 0.119,
+      "confidence_b_to_a": 0.186,
+      "lift": 2.553
+    },
+    {
+      "item_a": "Chicken Biryani",
+      "item_b": "Fresh Lime Soda",
+      "orders_together": 537,
+      "support": 0.009,
+      "confidence_a_to_b": 0.184,
+      "confidence_b_to_a": 0.121,
+      "lift": 2.52
+    },
+    {
+      "item_a": "Fresh Lime Soda",
+      "item_b": "Maggi",
+      "orders_together": 897,
+      "support": 0.015,
+      "confidence_a_to_b": 0.202,
+      "confidence_b_to_a": 0.173,
+      "lift": 2.374
+    }
+  ],
+  "category_profit": [
+    {
+      "category": "Coffee",
+      "revenue": 2922762.0,
+      "gross_profit": 2177272.0,
+      "margin_pct": 74.5,
+      "profit_share_pct": 30.2,
+      "profit_rank": 1
+    },
+    {
+      "category": "Snacks",
+      "revenue": 2533526.0,
+      "gross_profit": 1660042.0,
+      "margin_pct": 65.5,
+      "profit_share_pct": 23.1,
+      "profit_rank": 2
+    },
+    {
+      "category": "Meals",
+      "revenue": 1810080.0,
+      "gross_profit": 1028834.0,
+      "margin_pct": 56.8,
+      "profit_share_pct": 14.3,
+      "profit_rank": 3
+    },
+    {
+      "category": "Tea",
+      "revenue": 1262280.0,
+      "gross_profit": 992084.0,
+      "margin_pct": 78.6,
+      "profit_share_pct": 13.8,
+      "profit_rank": 4
+    },
+    {
+      "category": "Cold Drinks",
+      "revenue": 1120020.0,
+      "gross_profit": 788882.0,
+      "margin_pct": 70.4,
+      "profit_share_pct": 11.0,
+      "profit_rank": 5
+    },
+    {
+      "category": "Desserts",
+      "revenue": 798485.0,
+      "gross_profit": 552275.0,
+      "margin_pct": 69.2,
+      "profit_share_pct": 7.7,
+      "profit_rank": 6
+    }
+  ],
+  "channel_aov": [
+    {
+      "channel": "Dine-in",
+      "orders": 33651,
+      "avg_order_value": 171.9,
+      "avg_items": 1.88
+    },
+    {
+      "channel": "Takeaway",
+      "orders": 18133,
+      "avg_order_value": 171.3,
+      "avg_items": 1.87
+    },
+    {
+      "channel": "Delivery",
+      "orders": 9043,
+      "avg_order_value": 172.3,
+      "avg_items": 1.88
+    }
+  ]
+}

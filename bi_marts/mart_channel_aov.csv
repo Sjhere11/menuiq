@@ -1,0 +1,4 @@
+channel,orders,avg_order_value,avg_items
+Dine-in,33651,171.9,1.88
+Takeaway,18133,171.3,1.87
+Delivery,9043,172.3,1.88
