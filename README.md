@@ -106,6 +106,10 @@ Developed and tested on Python 3.13; CI runs 3.11 to 3.13. The pipeline takes ab
 category profit, item pairs, price elasticity, forecast backtest, and channel order value. No `.pbix` or
 `.twbx` file is included.
 
+## Data
+
+The simulated dataset is included so nothing has to be run to inspect it: `data/menuiq.db` (SQLite) and the same four tables as CSV in `data/raw/`. Regenerate it with `python -m menuiq.pipeline` (seeded, so the output is identical).
+
 ## Layout
 
 ```
@@ -114,6 +118,7 @@ sql/          schema + analytical queries
 tests/        unit and integration tests, including the ground-truth validation
 reports/      dashboard.html, figures, summary.json
 bi_marts/     CSV extracts for Power BI / Tableau
+data/         simulated dataset: SQLite database and raw CSV tables
 ```
 
 ## Licence

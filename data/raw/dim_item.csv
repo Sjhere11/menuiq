@@ -1,0 +1,27 @@
+item_id,item_name,category,list_price,unit_cost
+1,Filter Coffee,Coffee,60.0,18.0
+2,Cappuccino,Coffee,140.0,34.0
+3,Cold Coffee,Coffee,160.0,42.0
+4,Latte,Coffee,150.0,36.0
+5,Espresso,Coffee,100.0,22.0
+6,Masala Chai,Tea,40.0,9.0
+7,Ginger Tea,Tea,45.0,10.0
+8,Green Tea,Tea,70.0,12.0
+9,Iced Lemon Tea,Tea,90.0,20.0
+10,Fresh Lime Soda,Cold Drinks,70.0,14.0
+11,Mango Shake,Cold Drinks,140.0,52.0
+12,Oreo Shake,Cold Drinks,170.0,62.0
+13,Cold Brew,Cold Drinks,180.0,38.0
+14,Samosa,Snacks,25.0,10.0
+15,Veg Puff,Snacks,35.0,16.0
+16,Maggi,Snacks,80.0,22.0
+17,French Fries,Snacks,110.0,30.0
+18,Paneer Sandwich,Snacks,120.0,46.0
+19,Veg Burger,Snacks,130.0,50.0
+20,Veg Biryani,Meals,180.0,78.0
+21,Chicken Biryani,Meals,240.0,110.0
+22,Paneer Wrap,Meals,150.0,58.0
+23,Chicken Wrap,Meals,170.0,70.0
+24,Brownie,Desserts,110.0,34.0
+25,Choco Lava,Desserts,140.0,44.0
+26,Cookie,Desserts,50.0,16.0
